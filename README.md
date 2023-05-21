@@ -48,7 +48,7 @@ In the backend/controller file :
 
 We create the different instance that will use RailGun and integrate 1inch. 
 
-1inch-sdk-fetch.ts main functions : 
+1inch-sdk-fetch.ts : 
 
 - oneInchSubdomain ( here we can focus on Polygon)
 - create1inchSDK : generate the sdk for interacting with 1inch Fusion
@@ -60,9 +60,10 @@ Here we’ll have the class that will interact with the sdk and have the types t
 - GetSwapOrder : this function will place the order via the RailGun and 1inch DSK
 
 oneInch-place-order-step.ts
+The main purpose of the step is to interact with the contract here it would be the SDKs. 
 
 oneInch-swap-recipe.ts
-
+The file recipe will wrrap everything and it'll be used in the frontend. 
 
 ### Further implementation:
 Introducing: Secret strategies for DeFi
