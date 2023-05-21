@@ -78,10 +78,4 @@ export const create1inchSDK = () => {
   return sdk;
 };
 
-export const getWalletAddress = async () => {
-  const sdk = create1inchSDK();
 
-  const walletAddress = //getWalletAddress();
-
-  return walletAddress;
-}
