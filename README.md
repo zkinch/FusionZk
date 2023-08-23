@@ -11,6 +11,8 @@ On polygon Blockchain, with gasless features, fusion-zk is the step forward to c
 
 Danny Ba - Dannprinc#2842 - @dannyba10
 
+Aya Belarbi - b0xaya
+
 Repository:
 [https://github.com/zkinch/FusionZk](https://github.com/zkinch/FusionZk)
 
